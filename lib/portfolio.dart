@@ -46,7 +46,7 @@ class _PortfolioState extends State<Portfolio> {
       if (num > 1000000) {
         num = num / 1000000;
         tmpNum = num.toStringAsFixed(3);
-        retVal = tmpNum + "M";
+        retVal = tmpNum + "D";
       } else if (num > 100000) {
         num = num / 1000;
         tmpNum = num.toStringAsFixed(1);
