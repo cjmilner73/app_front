@@ -1,3 +1,4 @@
+import 'dart:io';
 import 'package:app/services/my_custom_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:app/services/post_model.dart';
@@ -112,6 +113,8 @@ class _PortfolioState extends State<Portfolio> {
                           String url =
                               "https://32rse7u512.execute-api.ap-southeast-1.amazonaws.com/api/prices";
                           get(Uri.parse(url));
+
+                          sleep(Duration(seconds:14));
                           setState(() {
                           
                           });
