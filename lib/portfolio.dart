@@ -46,7 +46,7 @@ class _PortfolioState extends State<Portfolio> {
       if (num > 1000000) {
         num = num / 1000000;
         tmpNum = num.toStringAsFixed(3);
-        retVal = tmpNum + "D";
+        retVal = tmpNum + "M";
       } else if (num > 100000) {
         num = num / 1000;
         tmpNum = num.toStringAsFixed(1);
@@ -112,6 +112,9 @@ class _PortfolioState extends State<Portfolio> {
                           String url =
                               "https://32rse7u512.execute-api.ap-southeast-1.amazonaws.com/api/prices";
                           get(Uri.parse(url));
+                          setState(() {
+                          
+                          });
                         },
                       ),
                       SizedBox(width: 10),
