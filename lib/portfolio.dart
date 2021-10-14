@@ -114,6 +114,7 @@ class _PortfolioState extends State<Portfolio> {
                               "https://32rse7u512.execute-api.ap-southeast-1.amazonaws.com/api/prices";
                           get(Uri.parse(url));
 
+                          print("About to sleep");
                           sleep(Duration(seconds:14));
                           setState(() {
                           
