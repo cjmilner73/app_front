@@ -39,6 +39,7 @@ class _PortfolioState extends State<Portfolio> {
 
     IconData eyeIcon = MyCustomIcons.eye;
     IconData eyeSlashIcon = MyCustomIcons.eye_slash;
+    int counter = 0;
 
     String formatNumber(double num) {
       String retVal = "";
@@ -117,7 +118,8 @@ class _PortfolioState extends State<Portfolio> {
                           print("About to sleep");
                           sleep(Duration(seconds:14));
                           setState(() {
-                          
+                            print("Setting state");
+                            counter=counter+1;
                           });
                         },
                       ),
