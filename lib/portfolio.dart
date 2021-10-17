@@ -44,7 +44,6 @@ class _PortfolioState extends State<Portfolio> {
     String formatNumber(double num) {
       String retVal = "";
       String tmpNum = "";
-
       if (num > 1000000) {
         num = num / 1000000;
         tmpNum = num.toStringAsFixed(3);
@@ -53,7 +52,9 @@ class _PortfolioState extends State<Portfolio> {
         num = num / 1000;
         tmpNum = num.toStringAsFixed(1);
         retVal = tmpNum + "K";
-      } else if (num > 10000) {
+      } else if (num > 10000 || num < -10000) {
+      // } else if (num > 10000) {
+        print("Formatting number: " + num.toString());
         num = num / 1000;
         tmpNum = num.toStringAsFixed(2);
         retVal = tmpNum + "K";
@@ -97,7 +98,7 @@ class _PortfolioState extends State<Portfolio> {
             }
             // String value = gTotalM.toStringAsFixed(3);
             String value = formatNumber(gTotal);
-            String delta = formatNumber(250958);
+            // String delta = formatNumber(250958);
 
             return Column(
               children: [
@@ -148,7 +149,7 @@ class _PortfolioState extends State<Portfolio> {
                   },
                   child: SummaryCard(
                       value: showValues ? "------".toString() : value,
-                      delta: deltaAmount.toString(),
+                      delta: showValues ? "-------".toString(): formatNumber(deltaAmount).toString(),
                       deltaPercent: ""),
                 ),
                 Expanded(
