@@ -4,20 +4,15 @@ class SummaryCard extends StatelessWidget {
   final String value;
   final String delta;
   final String deltaPercent;
+  final bool isMinus;
 
   SummaryCard(
-      {required this.value, required this.delta, required this.deltaPercent});
+      {required this.value, required this.delta, required this.deltaPercent, required this.isMinus});
 
   // final Map myMap = {'bitcoin': 'BTC'};
-  bool isMinus = false;
-
-
 
   @override
   Widget build(BuildContext context) {
-      if (double.parse(delta) > 0) {
-        isMinus = true;
-      }
     return Container(
       decoration: new BoxDecoration(color: Color(0xFFFFFBE6)),
       // decoration: new BoxDecoration(color: Color(0xFFFFFBE6)),

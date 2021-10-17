@@ -99,6 +99,10 @@ class _PortfolioState extends State<Portfolio> {
             // String value = gTotalM.toStringAsFixed(3);
             String value = formatNumber(gTotal);
             // String delta = formatNumber(250958);
+            bool _isMinus = true;
+            if (deltaAmount > 0) {
+              _isMinus = false;
+            }
 
             return Column(
               children: [
@@ -150,7 +154,8 @@ class _PortfolioState extends State<Portfolio> {
                   child: SummaryCard(
                       value: showValues ? "------".toString() : value,
                       delta: showValues ? "-------".toString(): formatNumber(deltaAmount).toString(),
-                      deltaPercent: ""),
+                      deltaPercent: "",
+                      isMinus: _isMinus,)
                 ),
                 Expanded(
                   child: Container(
