@@ -9,9 +9,15 @@ class SummaryCard extends StatelessWidget {
       {required this.value, required this.delta, required this.deltaPercent});
 
   // final Map myMap = {'bitcoin': 'BTC'};
+  bool isMinus = false;
+
+
 
   @override
   Widget build(BuildContext context) {
+      if (double.parse(delta) > 0) {
+        isMinus = true;
+      }
     return Container(
       decoration: new BoxDecoration(color: Color(0xFFFFFBE6)),
       // decoration: new BoxDecoration(color: Color(0xFFFFFBE6)),
@@ -38,7 +44,7 @@ class SummaryCard extends StatelessWidget {
                     style: TextStyle(
                         fontSize: 40,
                         fontWeight: FontWeight.normal,
-                        color: Colors.green)),
+                        color: isMinus ? Colors.red: Colors.green)),
                 SizedBox(width: 4),
                 Text("USD",
                     style: TextStyle(
