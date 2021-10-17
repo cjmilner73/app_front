@@ -86,10 +86,12 @@ class _PortfolioState extends State<Portfolio> {
             // print(key.keys.elementAt(0));
             double gTotal = 0.0;
             double price = 0.0;
+            double deltaAmount = 0.0;
             for (var i = 0; i < posts.length; i++) {
               // amt = (mapOfHoldings[posts[i].id.toString()]
               // .elementAt(1)
               // .toDouble());
+              deltaAmount = deltaAmount + (posts[i].price.toDouble() * posts[i].day_change);
               price = posts[i].price.toDouble();
               gTotal = gTotal + (posts[i].amount * price);
             }
@@ -146,7 +148,7 @@ class _PortfolioState extends State<Portfolio> {
                   },
                   child: SummaryCard(
                       value: showValues ? "------".toString() : value,
-                      delta: delta,
+                      delta: deltaAmount.toString(),
                       deltaPercent: ""),
                 ),
                 Expanded(
