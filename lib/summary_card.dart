@@ -37,13 +37,13 @@ class SummaryCard extends StatelessWidget {
                 SizedBox(width: 15),
                 Text(delta,
                     style: TextStyle(
-                        fontSize: 40,
+                        fontSize: 30,
                         fontWeight: FontWeight.normal,
                         color: isMinus ? Colors.red: Colors.green)),
                 SizedBox(width: 4),
                 Text("USD",
                     style: TextStyle(
-                        fontSize: 15,
+                        fontSize: 12,
                         fontWeight: FontWeight.normal,
                         color: Colors.grey)),
               ]),
