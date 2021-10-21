@@ -14,7 +14,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		wzgn43Aw2jwTmnbtcu3A7oJanjE=
+		5qqZScUXHrDTKWElrcABp2n7gLU=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		VUa5HEILXVOUr6hVeNlOFJ1IDyw=
+		WRwEnjmVXrhR1i27MbU4dFqqO14=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		8fUgblWungPFjdGNcJJrwM+kq9o=
+		b0M29o8IqCH2kWQYIfOKC5d04CY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		Za12Qj579uQE6zhdTVSuA5534nk=
+		QomwLMGV7c3g9Dpv/GYylppzCdE=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
@@ -386,11 +386,11 @@
 		</data>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<data>
-		cg+SVYSnkX5dxfimDGUEJkbCLrU=
+		UQZPI3JBNfAKcTHhmFzSOsFR+Q8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MBaAinG5gNyJP2ndoKtXO8MHRxw=
+		1EC66igHqWjmEIUP8zFFscU2Kfk=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -417,7 +417,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RvuHWY2HFV5hd6BKWa9VFSLML/rNDUUIoOXtvxgHKGg=
+			thD5OL116qD4IKCwVl8bOHzv7Hun44ebliPIyWBKs0g=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -431,14 +431,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m7q4bYhVI51p7huJjRzNyt2LuqhWY2LnNIy6Iuuv89M=
+			SBoWH3j6zP7Kyo2XS02gz8Mff20GZ1UDgUZ1XggYWrc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QdJ/6dSe2nK8dBsTlzXIqeoYT7j04awLtnLkFk5YSfc=
+			It8AXWOVPV18CGlbJFIHIn4ogepM1Q61GC7/u1b1Po0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -452,7 +452,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k2SKBmtqh7gcoh/IsXVfk0r28ucfFQkl3i3CawgK1Ls=
+			l5C9rgw+ixzY1CDKX+7+qUzbrBVSeEmoHrNJT+sx+So=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
@@ -1068,7 +1068,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fFI7wTgpQweHvElVdGd94q+0DMckhm23Iz/x0gQzmPA=
+			MpvtqqWlFWw9Sf/xCwJ19PTyd7dW5oJFAqceagqKdcU=
 			</data>
 		</dict>
 	</dict>
