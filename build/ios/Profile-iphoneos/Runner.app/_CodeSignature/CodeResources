@@ -38,7 +38,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		Qa4TIsMMa7haVQ4xkcvklDuvX7c=
+		PsS6eaVKd+7NY2mPAfJQkkjXHr4=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -366,19 +366,19 @@
 		</data>
 		<key>Frameworks/url_launcher.framework/Info.plist</key>
 		<data>
-		Dv4MEGb5ozzvT/hzStyNNSV2BPY=
+		TUAJUsZCkvB4HqdCC16e+2A5Vnw=
 		</data>
 		<key>Frameworks/url_launcher.framework/_CodeSignature/CodeResources</key>
 		<data>
-		NSquqieJgDnojbp7ykNBoa5u7EA=
+		rC7zqGpG64NJKa0pEF5PIXfFRcg=
 		</data>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<data>
-		680NHNDZd8s4q5H2V3OC6Zn9dmw=
+		SkKR8g9aNQqv6vJPRVRSF87d5f0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xJjLhcnYhjo8Zhx2n6aZzyFm18Y=
+		VmQFlNFkiM40aa3szyXQMDT4OUU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -386,7 +386,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		V16htLUjryhM/QoJFR6kyuSMYO4=
+		20yCrrZl1mNtCnwF4IhQmQYnwwE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -451,7 +451,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			khShr8onU+tm7lxu+9upK+CNMDo4+lGSr7Sb9JRCMkc=
+			mcg24M4P5Cy3KQ/Q05NmJFNCWffZc9JoXeEJs9XhBaI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -1025,28 +1025,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yg4mGM5kdxcYVzsdGNQeF8SESu154UyvreFadMeUHCU=
+			dx+J+jA2vjv17HRqdL3Hz7GrBDI1bbTZcxK4ugeGrpk=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K4li9mI9mOZPu/794dNKOgnWHBXZ5fhQeAhXSXMnvrU=
+			3geAnxCWcdYho9gsRsof9sZw7HE7kzXIFPH3ADKxag4=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e58/RsLHDzQZrI+I38dRvXJJQC+Hof+K8JPFNowWBQg=
+			k4PgSqgwVdg/2MnsXZYuCH4mOxwMFA3r6ijP4KZeX14=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6b8rVP9zykE023xuVFvPlt8xe2BAg2QADygxBSt4YLo=
+			Z82Akbe6bbG2mkFtSgM8CQPB2jK8t9OBT2hOdcTIxAQ=
 			</data>
 		</dict>
 	</dict>
