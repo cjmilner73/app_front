@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
               labelColor: Color(0xFF356859),
               tabs: [
                 Tab(
-                    text: "Portfolio",
+                    text: "sableela",
                     icon: Icon(MyCustomIcons.chart_pie,
                         color: Color(0xFF356859))),
                 Tab(
