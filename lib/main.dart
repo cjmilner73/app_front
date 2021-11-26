@@ -24,6 +24,10 @@ class MyApp extends StatelessWidget {
       800: Color.fromRGBO(4, 131, 184, .9),
       900: Color.fromRGBO(4, 131, 184, 1),
     };
+
+    // Comments I can put anything here
+    // But this is the start of the code
+
     MaterialColor basilColor = MaterialColor(0xFF356859, color);
     MaterialColor beigeColor = MaterialColor(0xFFFFFBE6, color);
 
@@ -41,14 +45,14 @@ class MyApp extends StatelessWidget {
               labelColor: Color(0xFF356859),
               tabs: [
                 Tab(
-                    text: "sableela",
+                    text: "Isabella",
                     icon: Icon(MyCustomIcons.chart_pie,
                         color: Color(0xFF356859))),
                 Tab(
-                    text: "Coins",
+                    text: "Coffee",
                     icon: Icon(MyCustomIcons.coins, color: Color(0xFF356859))),
                 Tab(
-                    text: "News",
+                    text: "Ashley",
                     icon: Icon(MyCustomIcons.newspaper,
                         color: Color(0xFF356859))),
                 Tab(
