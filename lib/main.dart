@@ -45,14 +45,14 @@ class MyApp extends StatelessWidget {
               labelColor: Color(0xFF356859),
               tabs: [
                 Tab(
-                    text: "Isabella",
+                    text: "Portfolio",
                     icon: Icon(MyCustomIcons.chart_pie,
                         color: Color(0xFF356859))),
                 Tab(
-                    text: "Coffee",
+                    text: "Coins",
                     icon: Icon(MyCustomIcons.coins, color: Color(0xFF356859))),
                 Tab(
-                    text: "Ashley",
+                    text: "News",
                     icon: Icon(MyCustomIcons.newspaper,
                         color: Color(0xFF356859))),
                 Tab(
