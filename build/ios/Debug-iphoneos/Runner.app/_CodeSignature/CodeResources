@@ -38,7 +38,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		Nzu9YVmQls+F6GonHoYggsScEiI=
+		UAeqqOZzdEUcXYHkq9IaOwKH3g8=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		olFnro23sW3WtJ3QcdX3GQZDnGI=
+		EzFXLoC3k35ZZvc6ay9mwiZZOX0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -226,7 +226,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		XEgSbf4gjEw8LfW5hTZvCn3u8Xc=
+		3dvtuKMwuTlMwEE28nnGKnL1jUQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -386,7 +386,7 @@
 		</data>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<data>
-		voB02IZdM9O+533DaxhOOh7CLFU=
+		7pMJZfjt+PUUTwynJrw46K6cWdQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -398,7 +398,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		6rUAw/Yaxj1Dt8wFXGDtyKAOw+s=
+		V16htLUjryhM/QoJFR6kyuSMYO4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -463,7 +463,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TDYfJhn84eg4rb04w23s+8/MJwIMzo44NinTVg1RvOA=
+			69NKI4N9kkWu0jMMVskAuCu1xHXBfEK3NQUJjHDjh10=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -477,7 +477,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			meBPsMOlXiEGY2kAYJOaP5pLpo6efPoomk6xSbfDBeU=
+			T+n3RpEnb0gBW8zMdLSOFcK0j3F6xn8uyv/LjbV4shY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -792,7 +792,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eiOJF/DTgALLYIw50t0wyy2g76BvE0DbaePincrVNlU=
+			zEr91GLkcroe4P3tdcI3vllXNlQRUa6gszuuc3LWKcs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1072,14 +1072,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z9h63QgKIHe0lADKi2M2hCYcpipMl0mEqF+KPN1cPqE=
+			mu7Qb6HxIUInXQMptWkQgR40CPqZFO2PP/Bi+N3J2ys=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iCJrqvPk745wZFnz17kM6iA6MyqNka/TO272ZiiY+Ec=
+			6b8rVP9zykE023xuVFvPlt8xe2BAg2QADygxBSt4YLo=
 			</data>
 		</dict>
 	</dict>
