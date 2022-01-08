@@ -10,15 +10,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		l32c4g9wQCQ3tuSS+U9fY6XIkhI=
+		S8GxnnPMKt2Ja9XGVJMGBcDiL00=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-<<<<<<< HEAD
 		/MJTP6qEu2mX6dpLhfNtnYxm1fg=
-=======
-		q2YnB+2XRNpCj5fFvpU273dOndw=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -26,19 +22,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-<<<<<<< HEAD
 		+CQ6+7Nmb7QGmbPpD9EShWZDkg0=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
 		c10g9XCVC+E4tHjFGgXPAMSOP6g=
-=======
-		U0x8EM0781fCPb62BbZIXKeDlZ4=
-		</data>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
-		<data>
-		NcDwqQY76U208B6UXgj+UdbL99Y=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -46,19 +34,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-<<<<<<< HEAD
 		HKqs1Kdd9hhm0Df10uLAscf0678=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		TSYesfF222IOrpQ8Gt+qJW2f/P4=
-=======
-		sPhzGA41FQRsyiQc9b/v8rCOPg8=
-		</data>
-		<key>Frameworks/App.framework/App</key>
-		<data>
-		e5yVx7aVJhJqbeDx77p6HhYZhY4=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
+		91Fs2DxM9JtYLFbE//mkstUkBeE=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -66,11 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-<<<<<<< HEAD
-		fLISvK8ChApXcXmaKYBR4R5yrAw=
-=======
-		PfS5ZmzT9zktddPTeQA8JPNirdA=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
+		Qd1q0eWv2usicrNB9p6IFPw21NU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -254,11 +230,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-<<<<<<< HEAD
-		FA/p/jOvDf29Jtycj8waNKEoiyM=
-=======
-		GFQ5thG6tXGYor/7fmkEFxZDPGY=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
+		BOM6yXBh9ORulrd58zvvbvtWlH8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -270,7 +242,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		XGK9eMRN1/JfvlFkH8A9Zah6ems=
+		YcYd/tDRBWaQY6Lja5Jya9Athy4=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -338,7 +310,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
-		k912xnM4Ze5a7buR65KtwhWuGFI=
+		YllsNCm+4nA9P0YilEZhHTzYx7A=
 		</data>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
 		<data>
@@ -346,7 +318,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		9o2+RaoojldMS7xacAyQMFxMR+M=
+		2s/ShIaVf7cd7chGr1RM8kpJLiE=
 		</data>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
@@ -410,27 +382,19 @@
 		</data>
 		<key>Frameworks/url_launcher.framework/Info.plist</key>
 		<data>
-		LYLP3psrS66jAyGalaLxOvnBTss=
+		NAwTZUCVsq8F1PLdoaqNGlhaBiI=
 		</data>
 		<key>Frameworks/url_launcher.framework/_CodeSignature/CodeResources</key>
 		<data>
-		AoP9FEmOP6K8/jXoMvMb8gbZGrY=
+		Hgrs+2xAN4Out+ygPPUbKp4IXZQ=
 		</data>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<data>
-<<<<<<< HEAD
 		28/6JkozNevCyypwQtvqqgduzHg=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		1EC66igHqWjmEIUP8zFFscU2Kfk=
-=======
-		erhsp/Wd4NiHUBRqXiuA32knx0A=
-		</data>
-		<key>Info.plist</key>
-		<data>
-		trfPXqCeC5Cv2+VUK0HubXF+J5g=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -450,18 +414,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gIE0X3B6YYfKlXgeX2P1M8sXYLA9YDfMg9aaYKnADT8=
+			LfOjhie3OkPiRAAaohIblnSsO9tQeqx4ik2wdRSEeoM=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			96TvCdgQplQq8atQU1bKjChh7NDdRwZ6zy6LjrrrvSA=
-=======
-			E8lmrpys8IuB5OBQYu8sRM5ptqNNLR50bExMzvTiKOM=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -475,22 +435,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			+fecO57OaCPlVCOvOsnMC5w7D65BfDskHjTxEPXf7p4=
-=======
-			cWq7q+iQcmpSoaFGecnyPdKFEPFwRD3slgUmxFADkVs=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			NVf+QA2d4AvAQ1vc1oT7Ttfg4tQMX3HNLYUdHrUtp1Q=
-=======
-			+nHRff087DYXFpw/oTWtY5tpCRFh9UC2IuTS4p66FTU=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -504,22 +456,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			s2xD9RVKw5VPDJub5cvl6xVW98oJkivlvjHziXYQCWM=
-=======
-			ZQ2gUxmWEdRgkn12jxaOmSDD+9/+PopRzqA3/yf4tK4=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			KqXFljxCFfbAGKuAHumeKieKH+f4kD4wTaTN58kY0zU=
-=======
-			1EsIb9LfASjArvdhGqvZ86rR548XPqOmUn5WynxPsZU=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
+			n/8AaFqHWuGWBIkC/R5N+h9cWYeCUACLfJ9H7KqIM9g=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -533,11 +477,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			F1F4qxPEBLgWukP9ePeovYFv6HlnWHqFifjqH7o8c3U=
-=======
-			m5K9aecdnQEkQXUSi2MeOcKWoLgdT/cfgvUlFUwQBQQ=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
+			TBtwYJNETFh/0J67/2Z20+EtKbdHzyv7yi861xSf9oo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -859,11 +799,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			BPoxqM/hiE+sGoyLBEObms2kdD5VdyVTUamV/+JVaG8=
-=======
-			YN+1hUAuYdpJGHSd1un5TmPIUyiNzsT586WbK2JP2Jo=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
+			+W2mwHad+U8xwQtFQ0p6C7teFKYBLT/e7MIS+NX4Ovo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -884,7 +820,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISzZi1tLvw9CDTU8QtFGhDBgHdq21VcmA5KMIEa8U1M=
+			eKNblYTCniOQ+iSndqBKe8Fz3Jw8ND6wHGyZzp8mNMQ=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -1003,7 +939,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U3TaqphcZEt6VbZa/tEU2TTwEAWZXGr366KdXuxxT5k=
+			MH8g9D6PTbN/ICqMx9qhMr4yYwMfp3M3/8A4HyByQYE=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
@@ -1017,7 +953,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kyx6ZMnbaqYMU8jbAkIwSLFVnCcNoy8j7w0o2xlYHQY=
+			hHi0clyTgk5nrbbC6k1Z/ZiCuZfIL4lMArhjCivls7I=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
@@ -1129,25 +1065,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MTBjwTpIF1Ur6z8YJeeG1jFHXzA5TDqzwb8C8WD2tus=
+			fJdwWE6tFAZBoRmVjp1TtmGOyPvZod4imAdDZK8aVpk=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qzlPCsNCo2kkCocco9Mqi2e4vgswnGfZPRgVCp4eGsA=
+			6+iL+pE4ero4qB37odZIBXAWf3C+HtjAtbQw1RFhm+o=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			9+mSpZoHJfIJwBRG1qFbUc4a45xX04dYIkNxKin8y20=
-=======
-			tbTHqm3eHoR3DJEztYl1nHRezc1oHYVhV6JZF0KUEn4=
->>>>>>> e4e3a065ae388fe184cf71719e01f21b7fa461a1
 			</data>
 		</dict>
 	</dict>
