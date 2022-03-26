@@ -386,19 +386,19 @@
 		</data>
 		<key>Frameworks/url_launcher.framework/Info.plist</key>
 		<data>
-		9ubRKIM0YXcxAq8x5QqJEZhdWME=
+		04KwYanUxtzV2mgdONoYnvdWbbc=
 		</data>
 		<key>Frameworks/url_launcher.framework/_CodeSignature/CodeResources</key>
 		<data>
-		zCGajZgercaGFHz4R6HGKUutIHE=
+		LlUfWRieon+IRWvgOkRCTmIc/iY=
 		</data>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<data>
-		Tn7MH/IPNfEACdpH1FnZD+9/lo0=
+		foCdD7cV9mLDeFTCFYFOd7vHti4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+pK6SnzXmxeFiLVIKCNfZC86OL0=
+		K/lZc236fix81Js7Krq3DtJrCn0=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1076,21 +1076,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aJH6RYHj5H8fzp/5eCMlwVM/8T5TjJku+RWdToktkvE=
+			uhLp+YsFJiJtEQdOx95F6aKnwr4DN6NeP46jYlhAGkM=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G4DS1fOK1pmT7iG4/u0ZSbJYsIYmeadWIpHrWZr/dj8=
+			6pBQFzZv4wfWpqa4CeyrhxIu6fJJg+CfK5sTBGlrjnk=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HHVVfK+w/c2qczv86Xl8/1n8ba/U1OC/VNtEEicmQT0=
+			yHMgIfcey596IjWu0NJjR4YeRpzzJRtZM+A3KPZ4pPI=
 			</data>
 		</dict>
 	</dict>
