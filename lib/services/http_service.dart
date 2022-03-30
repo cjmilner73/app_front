@@ -29,7 +29,8 @@ class HttpService {
     // String postsUrl = postsPreUrl + bodyUrl + postPostUrl;
     // String postsUrl = "http://127.0.0.1:5000/holdings";
     String postsUrl =
-        "https://32rse7u512.execute-api.ap-southeast-1.amazonaws.com/api/holdings";
+        // "https://32rse7u512.execute-api.ap-southeast-1.amazonaws.com/api/holdings";
+        "https://1jyqqpwi3m.execute-api.ap-southeast-1.amazonaws.com/api/holdings";
     //"https://32rse7u512.execute-api.ap-southeast-1.amazonaws.com/api/refresh";
     // print(postsUrl);
     return postsUrl;
@@ -38,6 +39,7 @@ class HttpService {
   Future<List<Post>> getPosts() async {
     String postsUrl = formURL();
     Response res = await get(Uri.parse(postsUrl));
+    print(postsUrl);
     print(res.statusCode);
     if (res.statusCode == 200) {
       //print(postsUrl);
