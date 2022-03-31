@@ -39,20 +39,20 @@ class HttpService {
   Future<List<Post>> getPosts() async {
     String postsUrl = formURL();
     Response res = await get(Uri.parse(postsUrl));
-    print(postsUrl);
-    print(res.statusCode);
+    // print(postsUrl);
+    // print(res.statusCode);
     if (res.statusCode == 200) {
       //print(postsUrl);
-      print(res.body);
+      // print(res.body);
       // NEXT CODE JUST FOR AURORA CALL
       var lists = json.decode(res.body);
       List<Post> list = [];
-      print("PRINT LIST FROM AURORA");
-      print(" ");
-      print(lists);
-      for (var i = 0; i < lists.length; i++) {
-        print(lists[i]);
-      }
+      // print("PRINT LIST FROM AURORA");
+      // print(" ");
+      // print(lists);
+      // for (var i = 0; i < lists.length; i++) {
+      // print(lists[i]);
+      // }
 
       // Map<String, dynamic> mymap = jsonDecode(res.body);
 
