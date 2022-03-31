@@ -119,7 +119,7 @@ class _PortfolioState extends State<Portfolio> {
                             size: 30, color: Color(0xFF356859)),
                         onPressed: () {
                           String url =
-                              "https://32rse7u512.execute-api.ap-southeast-1.amazonaws.com/api/prices";
+                              "https://1jyqqpwi3m.execute-api.ap-southeast-1.amazonaws.com/api/prices";
                           get(Uri.parse(url));
 
                           // print("About to sleep");
