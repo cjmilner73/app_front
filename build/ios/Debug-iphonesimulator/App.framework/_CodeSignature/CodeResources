@@ -20,10 +20,6 @@
 		<data>
 		b/T7lzYuoC2/yxKasPoR/O7a9+A=
 		</data>
-		<key>flutter_assets/NOTICES.Z</key>
-		<data>
-		SKrbohaMu84nTpG7eKP2yb7XLJk=
-		</data>
 		<key>flutter_assets/assets/fonts/MyCustomIcons.ttf</key>
 		<data>
 		a2/HWO4p02gWmgrChc1Ifm2mygs=
@@ -190,11 +186,11 @@
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		7Jt1VzUkTmBMIqzT8+Exp0F3vXU=
+		ELluN2aQ5lXx4NZnJlBUXyZEfGo=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		QbFVZ1oR1wvv8PO15JSbnw5sgc8=
+		+0+UV/wYjRbwvTVQSkhYkujdUCw=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -202,7 +198,7 @@
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
-		cuieaQ9j+9gCTKYPRhW1tc4y4co=
+		BICKLyZmEDX0yMJrQwYDz3tKwt8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -238,17 +234,6 @@
 			<key>hash2</key>
 			<data>
 			FeYtQUxb8OXvJ8nMZ90DUAHlxo6bR+Rh6ZoggRmBHzM=
-			</data>
-		</dict>
-		<key>flutter_assets/NOTICES.Z</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SKrbohaMu84nTpG7eKP2yb7XLJk=
-			</data>
-			<key>hash2</key>
-			<data>
-			/uKZRGL5UCwK2Kc1fFGu+YsLKtgn5lBoW1tD5kPp4KY=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/fonts/MyCustomIcons.ttf</key>
@@ -706,22 +691,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Jt1VzUkTmBMIqzT8+Exp0F3vXU=
+			ELluN2aQ5lXx4NZnJlBUXyZEfGo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZFODmTeagWrvsG4zM70kE2pUuv9LC65LEG0iTLSZR8s=
+			d5Zhq5S+3ylGF8osqx2M/nYmzI/1w4FDUIjGiKWFaOc=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QbFVZ1oR1wvv8PO15JSbnw5sgc8=
+			+0+UV/wYjRbwvTVQSkhYkujdUCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			QAsjSW4J/NaKf1xNksYxnsx4Uye6UclKG/9DI99K1UY=
+			Pp64TFtaE92sdvMlC2O5toAPevN3LvPOltx0c/ea9Hk=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -739,11 +724,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cuieaQ9j+9gCTKYPRhW1tc4y4co=
+			BICKLyZmEDX0yMJrQwYDz3tKwt8=
 			</data>
 			<key>hash2</key>
 			<data>
-			nc7zSGd5LPg51+X2B4gM/FLTg8moyL55+ErAW3mTHI0=
+			dW/lW8/DGE7kqgVOIL22hio/M/WrH8+bodAoyvhyXsU=
 			</data>
 		</dict>
 	</dict>
