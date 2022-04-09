@@ -104,7 +104,7 @@ class HttpService {
       // print("Posts list: " + list.toString());
       return list;
     } else {
-      print("Error getting posts.");
+      // print("Error getting posts.");
       throw "Can't get posts.";
     }
   }
