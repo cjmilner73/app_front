@@ -1,4 +1,5 @@
 import 'package:app/portfolio.dart';
+import 'package:app/charting.dart';
 import 'package:flutter/material.dart';
 import 'package:app/posts.dart';
 import 'package:app/services/pallette.dart';
@@ -69,7 +70,7 @@ class MyApp extends StatelessWidget {
             children: [
               // PostPage(),
               Portfolio(),
-              Icon(Icons.directions_transit),
+              Charting(),
               Icon(Icons.directions_transit),
               Icon(Icons.ac_unit)
             ],
