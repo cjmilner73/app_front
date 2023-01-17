@@ -28,6 +28,7 @@ class HttpService {
     if (postsUrl == "http://127.0.0.1:5000/holdings") {
     if (res.statusCode == 200) {
       var lists = json.decode(res.body);
+      print(lists.runtimeType);
       print(lists[0]);
       List<Post> list = [];
       Post p = Post(id: '', price: 0.0, amount: 0, total: 0, day_change: 0.0);
