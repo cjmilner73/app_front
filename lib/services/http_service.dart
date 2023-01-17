@@ -27,12 +27,14 @@ class HttpService {
     // Check if running local server
     if (postsUrl == "http://127.0.0.1:5000/holdings") {
     if (res.statusCode == 200) {
-      var lists = json.decode(res.body);
-      Map<String, dynamic> m = Map<String, dynamic>.from(lists);
+      var hashMap = json.decode(res.body);
+      Map<String, dynamic> m = Map<String, dynamic>.from(hashMap);
       print(m["holdings"]);
+      var lists = m["holdings]"];
       List<Post> list = [];
       Post p = Post(id: '', price: 0.0, amount: 0, total: 0, day_change: 0.0);
       for (var i = 0; i < lists.length; i++) {
+        print(lists[0]);
         String thisId = lists[i][1];
         double thisPrice = lists[i][3];
         int thisAmount = lists[i][2];
