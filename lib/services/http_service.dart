@@ -17,7 +17,6 @@ class HttpService {
     // String postsUrl =
     //     "https://1jyqqpwi3m.execute-api.ap-southeast-1.amazonaws.com/api/holdings";
     String postsUrl = "http://127.0.0.1:5000/holdings";
-    print(postsUrl);
     
     return postsUrl;
   }
@@ -25,6 +24,7 @@ class HttpService {
   Future<List<Post>> getPosts() async {
     String postsUrl = formURL();
     Response res = await get(Uri.parse(postsUrl));
+    print(res.body);
     if (res.statusCode == 200) {
       var lists = json.decode(res.body);
       List<Post> list = [];
