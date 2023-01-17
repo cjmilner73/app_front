@@ -24,9 +24,11 @@ class HttpService {
   Future<List<Post>> getPosts() async {
     String postsUrl = formURL();
     Response res = await get(Uri.parse(postsUrl));
+    // Check if running local server
     if (postsUrl == "http://127.0.0.1:5000/holdings") {
     if (res.statusCode == 200) {
       var lists = json.decode(res.body);
+      print(lists[0]);
       List<Post> list = [];
       Post p = Post(id: '', price: 0.0, amount: 0, total: 0, day_change: 0.0);
       for (var i = 0; i < lists.length; i++) {
