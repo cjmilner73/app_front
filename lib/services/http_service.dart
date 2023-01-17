@@ -38,7 +38,7 @@ class HttpService {
         // double thisPrice = lists[i][3];
         // int thisAmount = lists[i][2];
         // double thisDayChange = lists[i][4];
-        print(lists[0].toString());
+        print(lists[0].runtimeType);
         String thisId = lists[i][1];
         double thisPrice = lists[i][3];
         int thisAmount = lists[i][2];
