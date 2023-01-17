@@ -24,30 +24,32 @@ class HttpService {
   Future<List<Post>> getPosts() async {
     String postsUrl = formURL();
     Response res = await get(Uri.parse(postsUrl));
-    if (res.statusCode == 200) {
-      var lists = json.decode(res.body);
-      List<Post> list = [];
-      Post p = Post(id: '', price: 0.0, amount: 0, total: 0, day_change: 0.0);
-      for (var i = 0; i < lists.length; i++) {
-        String thisId = lists[i][1];
-        double thisPrice = lists[i][3];
-        int thisAmount = lists[i][2];
-        double thisDayChange = lists[i][4];
-        // ignore: unused_local_variable
-        String newThisDayChange = thisDayChange.toStringAsFixed(3);
-        p = Post(
-            id: thisId,
-            price: thisPrice,
-            amount: thisAmount,
-            total: thisAmount * thisPrice,
-            day_change: thisDayChange);
-        list.add(p);
-        list.sort((a, b) => b.total.compareTo(a.total));
-      }
-      return list;
-    } else {
-      throw "Can't get posts.";
+    if (postsUrl == "http://127.0.0.1:5000/holdings") {
+  if (res.statusCode == 200) {
+    var lists = json.decode(res.body);
+    List<Post> list = [];
+    Post p = Post(id: '', price: 0.0, amount: 0, total: 0, day_change: 0.0);
+    for (var i = 0; i < lists.length; i++) {
+      String thisId = lists[i][1];
+      double thisPrice = lists[i][3];
+      int thisAmount = lists[i][2];
+      double thisDayChange = lists[i][4];
+      // ignore: unused_local_variable
+      String newThisDayChange = thisDayChange.toStringAsFixed(3);
+      p = Post(
+          id: thisId,
+          price: thisPrice,
+          amount: thisAmount,
+          total: thisAmount * thisPrice,
+          day_change: thisDayChange);
+      list.add(p);
+      list.sort((a, b) => b.total.compareTo(a.total));
     }
+    return list;
+  } else {
+    throw "Can't get posts.";
+  }
+}
   }
   Future<List<Post>> getOHCL() async {
     String postsUrl = formURL();
