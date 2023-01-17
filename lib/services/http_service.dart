@@ -41,10 +41,10 @@ class HttpService {
         print(lists[0].runtimeType);
         Map<String, dynamic> myMap = Map<String, dynamic>.from(lists[i]);
         print(myMap["id"]);
-        String thisId = lists[i][1];
-        double thisPrice = lists[i][3];
-        int thisAmount = lists[i][2];
-        double thisDayChange = lists[i][4];
+        String thisId = myMap["id"];
+        double thisPrice = myMap["last_price"];
+        int thisAmount = myMap["amount"];
+        double thisDayChange = myMap["day_change"];
         String newThisDayChange = thisDayChange.toStringAsFixed(3);
         p = Post(
             id: thisId,
