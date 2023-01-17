@@ -30,6 +30,7 @@ class HttpService {
       List<Post> list = [];
       Post p = Post(id: '', price: 0.0, amount: 0, total: 0, day_change: 0.0);
       for (var i = 0; i < lists.length; i++) {
+        // String thisId = lists[i][1];
         String thisId = lists[i][1];
         double thisPrice = lists[i][3];
         int thisAmount = lists[i][2];
