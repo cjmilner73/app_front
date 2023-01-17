@@ -24,10 +24,9 @@ class HttpService {
   Future<List<Post>> getPosts() async {
     String postsUrl = formURL();
     Response res = await get(Uri.parse(postsUrl));
-    print(res.body);
+    // print(res.body[0]);
     if (res.statusCode == 200) {
       var lists = json.decode(res.body);
-      print(lists.toString());
       List<Post> list = [];
       Post p = Post(id: '', price: 0.0, amount: 0, total: 0, day_change: 0.0);
       for (var i = 0; i < lists.length; i++) {
