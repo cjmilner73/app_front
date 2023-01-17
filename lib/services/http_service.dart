@@ -29,10 +29,8 @@ class HttpService {
     if (res.statusCode == 200) {
       var hashMap = json.decode(res.body);
       Map<String, dynamic> m = Map<String, dynamic>.from(hashMap);
-      print(m["holdings"]);
-      var lists = m["holdings]"];
-      print("List length");
-      print(lists.runtimeType);
+      var lists = m["holdings"];
+      print(lists.length);
       List<Post> list = [];
       Post p = Post(id: '', price: 0.0, amount: 0, total: 0, day_change: 0.0);
       for (var i = 0; i < lists.length; i++) {
