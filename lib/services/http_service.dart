@@ -17,6 +17,7 @@ class HttpService {
     // String postsUrl =
     //     "https://1jyqqpwi3m.execute-api.ap-southeast-1.amazonaws.com/api/holdings";
     String postsUrl = "http://127.0.0.1:5000/holdings";
+    postsUrl = "http://192.168.1.70:5000/holdings";
     
     return postsUrl;
   }
@@ -25,7 +26,8 @@ class HttpService {
     String postsUrl = formURL();
     Response res = await get(Uri.parse(postsUrl));
     // Check if running local server
-    if (postsUrl == "http://127.0.0.1:5000/holdings") {
+    // if (postsUrl == "http://127.0.0.1:5000/holdings") {
+    if (postsUrl == "http://192.168.1.70:5000/holdings") {
     if (res.statusCode == 200) {
       var hashMap = json.decode(res.body);
       Map<String, dynamic> m = Map<String, dynamic>.from(hashMap);
