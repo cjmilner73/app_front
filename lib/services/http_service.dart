@@ -57,7 +57,7 @@ class HttpService {
       }
       return list;
     } else {
-      throw "Can't get posts.";
+      throw "Can't get posts. Is the backend server running?";
     } 
     } else {
     if (res.statusCode == 200) {
