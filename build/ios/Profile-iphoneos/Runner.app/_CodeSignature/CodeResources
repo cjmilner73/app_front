@@ -6,11 +6,11 @@
 	<dict>
 		<key>AppFrameworkInfo.plist</key>
 		<data>
-		5dAMsVjJU7HOUDm3juoD03mgepg=
+		E9JtVX3y69tg0aOODFcuFW1dIEM=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		l32c4g9wQCQ3tuSS+U9fY6XIkhI=
+		gVuDoMpxgt3w6AQjOEwOlgRiu3M=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		PsS6eaVKd+7NY2mPAfJQkkjXHr4=
+		pndfxJlcn7ivh5GjyNraRtaJHzE=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
-		Mq+wRuRJiH7IsTeur7zwrEDoks4=
+		2WH3EkzfNpYxRzEQezsUEM18s6A=
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		pPFfmnMd6K+VmOrb0/wbkSyBSMM=
+		mWwYWHTB6Qus6iACIM/KVDd4HOU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		gdemmk1VkKCqM4+aEZE35jszIck=
+		f8toGX8anh0ZzRrX3YpjYRvLD8k=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -107,6 +107,10 @@
 		<key>Frameworks/App.framework/flutter_assets/assets/images/logos/chz.png</key>
 		<data>
 		Hjy3ffIpx/MHpL1KXe7WUXmpI8M=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/logos/cro.png</key>
+		<data>
+		KIIsKX4hFzPKilYWXZLscVvNrlY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/logos/cvc.png</key>
 		<data>
@@ -226,7 +230,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		LK0hTb2uzmMXYvPKlqAU3A4ayQs=
+		pLS5V1/z4RDo3jVCxw8r47hagLs=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -294,7 +298,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
-		LA8Mrk2s4GgBMWXcCBYfKP4VIXs=
+		6Bvd2qgQNrLgYpRTqSzOPs3xTRA=
 		</data>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
 		<data>
@@ -302,7 +306,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		+Oj1liUrb0fKz8CMLbxn/qh/8Pc=
+		cJILx8fNLCo+unxw7H+2RvSfEqk=
 		</data>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
@@ -366,19 +370,19 @@
 		</data>
 		<key>Frameworks/url_launcher.framework/Info.plist</key>
 		<data>
-		TUAJUsZCkvB4HqdCC16e+2A5Vnw=
+		ZQgLuplqhbK9C/GY+0ckIOvNEUc=
 		</data>
 		<key>Frameworks/url_launcher.framework/_CodeSignature/CodeResources</key>
 		<data>
-		rC7zqGpG64NJKa0pEF5PIXfFRcg=
+		DsrSt5hjd7dpK0Zvii2s+LeprE8=
 		</data>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<data>
-		SkKR8g9aNQqv6vJPRVRSF87d5f0=
+		0Ya4UVifApTNHEvNnH2hg0eNmDA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VmQFlNFkiM40aa3szyXQMDT4OUU=
+		CnX/4yyZ3oEXPwIeIVT1Qf5Di7U=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -386,7 +390,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		20yCrrZl1mNtCnwF4IhQmQYnwwE=
+		lgeCWyjBZTqIvq1NetHL4F7jhRo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -395,14 +399,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zmN6K6WkF4GUouCIKTHYU8pTli6+46OF2Y9KZpC5ap4=
+			HvMNaysbwvmfab4yQCamWTuf/ApsPJXOj2cLUOJOWDo=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gIE0X3B6YYfKlXgeX2P1M8sXYLA9YDfMg9aaYKnADT8=
+			bOJTgg6JAT20epzdUNXI7/wlZqnDDP8EbEURzQYeyLM=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -451,28 +455,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mcg24M4P5Cy3KQ/Q05NmJFNCWffZc9JoXeEJs9XhBaI=
+			t6aBALsbHhWI9J3equmOztOHqnLvFZzlCrTzX9qKkRs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			psec61HxCx39D44v8dlSAyyCzzyaogxBEN1upiq+rFQ=
+			Te4ceyazB0btZ+MzP0KoJ/8ddM4nxEjyFgYtwvjMuyk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lLW2HR5AiZziYqxz2jnoECPyp80SHxGuBc5KZCBmc2A=
+			VKREn9W75tfwzeL70mO3NNakw2OaY5KHC1G6SfRf9Rs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dNxWvt9bOYoeBWZwCKEFrrPzgZL6XUh4vUPTVNoLai0=
+			4SJz5A1B6jCzy4VL204iG7DTPYBQ4ynz9uPgqjdlU34=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -571,6 +575,13 @@
 			<key>hash2</key>
 			<data>
 			NMJ+iO25FpWaBaSJUDR6j5ZY5fHHB9AP/yovOQQlC18=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/logos/cro.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RzXOhZiOrmF+hxmIUq/+NuU4es+1ivlwYAzbs/ts7g0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/logos/cvc.png</key>
@@ -780,7 +791,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ET/Rmt0u8lZuPCKgTVXYJwnrn7XpvnIA2ZYPqQwdMv4=
+			g675gTxyks0r6QGWHH2uuq4q+r5yAkYYLsjpDH1gYgs=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -899,7 +910,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QJp51uMdeifCRxbDRlZR9ChmNPrvr2XJZZynyyoL744=
+			zQyZC76P7oR5S8uBjUnsbxBhV1d4hj9GeuJByUzi6xA=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
@@ -913,7 +924,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AnTeH5mVX+N2eyhEVZfwyRAiD3DeqLIDDDELWqiZ30U=
+			VMqPTOsr4sx3fcg8fUXLQVt9LafEF7JSDXhTfiyu/4c=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
@@ -1025,28 +1036,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dx+J+jA2vjv17HRqdL3Hz7GrBDI1bbTZcxK4ugeGrpk=
+			gmDFYTh2EpKYK/TpLSr4svJOTuW+baRj0pchasw0SZo=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3geAnxCWcdYho9gsRsof9sZw7HE7kzXIFPH3ADKxag4=
+			mH4wkAfUvMrzxmlxUQe3SBR5KoX6jzhA8o8PcDgorc0=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k4PgSqgwVdg/2MnsXZYuCH4mOxwMFA3r6ijP4KZeX14=
+			nBVkqN9OfbECwPwdEs48/Qrk2LsmCvz51sQLR99nKDU=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z82Akbe6bbG2mkFtSgM8CQPB2jK8t9OBT2hOdcTIxAQ=
+			B5fYHem57spuJgIqhNA9bguzJ/7DzXV4f/GPyi85RiQ=
 			</data>
 		</dict>
 	</dict>
