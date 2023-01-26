@@ -60,7 +60,7 @@ class MyApp extends StatelessWidget {
                     icon: Icon(MyCustomIcons.bell, color: Color(0xFF356859))),
               ],
             ),
-            title: const Text("deCRYPT",
+            title: const Text("Portfolio",
                 style: TextStyle(
                     letterSpacing: 5.0,
                     fontSize: 30,
