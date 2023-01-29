@@ -13,10 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
  * Propagates `UIAppDelegate` callbacks to registered plugins.
  */
 FLUTTER_DARWIN_EXPORT
-@interface FlutterPluginAppLifeCycleDelegate : NSObject
-#if __IPHONE_OS_VERSION_MAX_ALLOWED >= __IPHONE_10_0
-                                               <UNUserNotificationCenterDelegate>
-#endif
+@interface FlutterPluginAppLifeCycleDelegate : NSObject <UNUserNotificationCenterDelegate>
 
 /**
  * Registers `delegate` to receive life cycle callbacks via this FlutterPluginAppLifecycleDelegate
@@ -56,6 +53,12 @@ FLUTTER_DARWIN_EXPORT
  */
 - (void)application:(UIApplication*)application
     didRegisterForRemoteNotificationsWithDeviceToken:(NSData*)deviceToken;
+
+/**
+ * Calls all plugins registered for `UIApplicationDelegate` callbacks.
+ */
+- (void)application:(UIApplication*)application
+    didFailToRegisterForRemoteNotificationsWithError:(NSError*)error;
 
 /**
  * Calls all plugins registered for `UIApplicationDelegate` callbacks.
